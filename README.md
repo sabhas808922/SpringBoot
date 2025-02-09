@@ -16,3 +16,4 @@ Building a Simple Web Application
 Running and Testing Your Application
 
 Next Steps
+![image](https://github.com/user-attachments/assets/72e4964f-adb0-47c0-a81b-bc547998e4a8)
